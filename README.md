@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul A T</h1>
-<h3 align="center">A passionate Data Science and NLP Engineer from Banglore, Inida</h3>
+<h3 align="center">B.Tech IT Graduate from CEG, Anna University, and a passionate Data Science and NLP Engineer from Banglore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 - 🔭 I’m currently working on **Machine Learning and NLP**
@@ -8,7 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/atulat?tab=repositories](https://github.com/atulat?tab=repositories)
 
-- 💬 Ask me about **Data Science, Meta Verse, Blockchain, Impact of Tech**
+- 💬 Ask me about **Data Science, Meta Verse, Blockchain**
+
+- 💬 Since I am an **ex - Civil Service Aspirant**, you can ask me about **Indian History, Geogrpahy, Politics, Governance, Economics, Public Health, ..** 
 
 - 📫 How to reach me **atulat1996@gmail.com**
 
