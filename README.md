@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul A T</h1>
 <h3 align="center">A passionate Data Science and NLP Engineer from Banglore, Inida</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 - 🔭 I’m currently working on **Machine Learning and NLP**
 
