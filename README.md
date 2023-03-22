@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul A T</h1>
 <h3 align="center">A passionate Data Science and NLP Engineer from Banglore, Inida</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw10BrE_201odvKn1JRA5_j-&ust=1679567815862000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjYgeur7_0CFQAAAAAdAAAAABAE)">
 
 - 🔭 I’m currently working on **Machine Learning and NLP**
 
