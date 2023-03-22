@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Science, Meta Verse, Blockchain**
 
-- 💬 Since I am an **ex - Civil Service Aspirant**, you can ask me about **Indian History, Geogrpahy, Politics, Governance, Economics, Public Health, ..** 
+- 💬 Since I am an **ex - Civil Service Aspirant**, you can ask me about **Indian History, Geogrpahy, Politics, Governance, Economics, Public Health** 
 
 - 📫 How to reach me **atulat1996@gmail.com**
 
